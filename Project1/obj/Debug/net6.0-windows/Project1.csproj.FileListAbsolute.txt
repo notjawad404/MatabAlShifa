@@ -1,0 +1,113 @@
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\Project1.exe
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\Project1.deps.json
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\Project1.runtimeconfig.json
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\Project1.pdb
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.AssemblyReference.cache
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Login.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Sign_in.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Admin_Login.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.GenerateResource.cache
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfoInputs.cache
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfo.cs
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CoreCompileInputs.cache
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\refint\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.pdb
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.genruntimeconfig.cache
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\ref\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CopyComplete
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Intro.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Properties.Resources.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Form5.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Form8.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.UserDashboard.resources
+C:\Users\jawad\OneDrive\Desktop\VIsual Programming\Tasks\Project1\Project1\obj\Debug\net6.0-windows\Project1.Medicines1.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\Project1.exe
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\Project1.deps.json
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\Project1.runtimeconfig.json
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\Project1.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\Project1.pdb
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.AssemblyReference.cache
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Login.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Sign_in.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Admin_Login.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Intro.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.UserDashboard.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Medicines1.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Cart.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Properties.Resources.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.GenerateResource.cache
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfoInputs.cache
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfo.cs
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CoreCompileInputs.cache
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CopyComplete
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\refint\Project1.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.pdb
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.genruntimeconfig.cache
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\ref\Project1.dll
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.AdminPanel.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Fever.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Heart.resources
+D:\University\5th Semester\Visual Programming - VP\Project1\Project1\obj\Debug\net6.0-windows\Project1.Joints.resources
+C:\Users\jawad\OneDrive\Desktop\VP Project\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.AssemblyReference.cache
+C:\Users\jawad\OneDrive\Desktop\VP Project\Project1\Project1\obj\Debug\net6.0-windows\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VP Project\Project1\Project1\obj\Debug\net6.0-windows\refint\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VP Project\Project1\Project1\obj\Debug\net6.0-windows\Project1.pdb
+C:\Users\jawad\OneDrive\Desktop\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.AssemblyReference.cache
+C:\Users\jawad\OneDrive\Desktop\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VPProject\Project1\Project1\obj\Debug\net6.0-windows\refint\Project1.dll
+C:\Users\jawad\OneDrive\Desktop\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.pdb
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.AssemblyReference.cache
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.dll
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\refint\Project1.dll
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.pdb
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\Project1.exe
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\Project1.deps.json
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\Project1.runtimeconfig.json
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\Project1.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\Project1.pdb
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\VPProject\Project1\Project1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Admin_Login.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.AdminPanel.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Cart.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.UserDashboard.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Fever.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Heart.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Intro.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Joints.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Login.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Medicines1.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Properties.Resources.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Sign_in.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.GenerateResource.cache
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.GeneratedMSBuildEditorConfig.editorconfig
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfoInputs.cache
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.AssemblyInfo.cs
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CoreCompileInputs.cache
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.csproj.CopyComplete
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.genruntimeconfig.cache
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\ref\Project1.dll
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Admin_Dashboard.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.Orders_Record.resources
+S:\VPProject\Project1\Project1\obj\Debug\net6.0-windows\Project1.OrderStatus.resources
